@@ -20,3 +20,7 @@ Use following commands
 Type the movie name, to get the rating.
 
 type 'exit' to exit the application
+
+To run locally without docker use following commands
+- npm install
+- npm run start
