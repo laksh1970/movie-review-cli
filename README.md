@@ -19,3 +19,4 @@ Use following commands
 
 Type the movie name, to get the rating.
 
+type 'exit' to exit the application
